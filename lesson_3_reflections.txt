@@ -12,3 +12,11 @@ Describe the differences between forks, clones, and branches. When would you use
 	Branches are offshoots of a repository, they allow you to work on a side feature with effecting what every else is working on.  
 	Forks are copies of someone else's repository that you do not have permission to edit, which allows you to make changes to code you want to work with.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	The benefit of having a copy of the last known state of the remote stored locally is that if you want to work offline on some changes to the code, you know that you are working with the latest.  This would help down the line dealing with merge conflicts so you won't have as much work to do.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	If I wasn't using GitHub, I would have to send my files back and forth to my collaborators with specific notes that show where changes were made.  For simple changes it would be easier since my partners could look and then edit the file and update it without having to ask me.  However, with larger files it would be more complicated and would probably lead to things getting missed and changes being made without asking me.
+
